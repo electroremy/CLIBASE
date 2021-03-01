@@ -7,7 +7,7 @@ A propos des fichiers :
 - "CLIBASE V6 - Descriptif technique développeurs - Rév 1.1.pdf" contient les explications pour développer le firmware
 - "Encodeur_FW_ClibaseV6_r1.0.exe.7z" est l'utilitaire permettant de téléverser le nouveau firmware
 - "MPLAB.X.7z" contient un projet MPLAB paramétré.
-- "18F67J60_datasheet.pdf" la datasheet du microcontroleur - voir également ici https://www.microchip.com/wwwproducts/en/PIC18F67J60
+- Voir ici pour la datasheet du mircocontroleur utilisé https://www.microchip.com/wwwproducts/en/PIC18F67J60
 
 A propos du CLIBASE V6 - questions fréquement posées :
 
