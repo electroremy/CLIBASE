@@ -1,0 +1,1 @@
+Ce dossier comporte l'ensemble des fichiers qui étaient contenus dans l'archive `CLIBASE V6 - Kit développeur OpenSource [2020-02-21].rar`
