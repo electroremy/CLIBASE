@@ -32,7 +32,7 @@ Correctifs apportées:
 
 # Version : 1.0.4 FR/BE/CH
 
-Publiée le : ???
+Publiée le : 10/01/2020
 
 Améliorations apportées:
 - ???
@@ -41,7 +41,7 @@ Correctifs apportées:
 
 # Version : 1.0.3 FR/BE/CH
 
-Publiée le : ???
+Publiée le : 28/04/2019
 
 Améliorations apportées:
 - ???
